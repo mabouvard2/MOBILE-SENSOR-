@@ -1,0 +1,7 @@
+<resources>
+    <string name="navigation_drawer_open">Ouvrir nav</string>
+    <string name="navigation_drawer_close">Fermer navigation</string>
+    <string name="app_name">BALL GAME</string>
+    <string name="cliquez">bouton</string>
+    <string name="choisissez_votre_vitesse">Choisissez votre vitesse</string>
+</resources>
